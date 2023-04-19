@@ -52,9 +52,3 @@ To download the released apk, click this [link.](https://drive.google.com/file/d
 
 
 
-## Support
-
-For support, email remoquillodr@gmail.com.
-
-
-
